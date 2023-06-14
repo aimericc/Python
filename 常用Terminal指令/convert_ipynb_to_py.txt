@@ -1,0 +1,1 @@
+jupyter nbconvert filename.ipynb --to python

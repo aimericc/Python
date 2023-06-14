@@ -1,0 +1,2 @@
+開啟資料夾
+cd Cheng\ Yen/Python/Udemy_Complete_Python_Bootcamp

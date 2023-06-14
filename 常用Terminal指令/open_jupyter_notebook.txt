@@ -1,0 +1,5 @@
+cd /d D:\cheng-yen\desktop\python
+
+jupyter lab
+
+jupyter notebook
